@@ -11,7 +11,7 @@ https://sujeitoprogramador.com/
 <img align="center" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<div align="center">
+</div>
 
 ## 🛠️ Features
 
@@ -22,7 +22,7 @@ https://sujeitoprogramador.com/
 - Show the user's balance
 - remove the entrie/expense and automatically update the balance
 
-## 📡 Tecnologias utilizadas
+## 📡 Technologies 
 
 <div align="center"> 
 <img align="left" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
