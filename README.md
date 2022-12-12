@@ -10,8 +10,9 @@ https://sujeitoprogramador.com/
 <div align="left">
 <img align="left" alt="SignIn" height="654" width="320" src="src/assets/logIn.png">
 <img align="left" alt="Home" height="654" width="320" src="src/assets/home.png">
-
 </div>
+
+<br/><br/>
 
 ## 🛠️ Features
 
