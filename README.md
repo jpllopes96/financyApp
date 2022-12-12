@@ -7,9 +7,9 @@ The App **FinancyApp** is a project developed during **Sujeito Programador** cla
 **Sujeito Programador:**
 https://sujeitoprogramador.com/
 
-<div align="center">
-<img align="center" alt="SignIn" height="654" width="320" src="src/assets/logIn.png">
-<img align="center" alt="Home" height="654" width="320" src="src/assets/home.png">
+<div align="left">
+<img align="left" alt="SignIn" height="654" width="320" src="src/assets/logIn.png">
+<img align="left" alt="Home" height="654" width="320" src="src/assets/home.png">
 
 </div>
 
@@ -39,3 +39,7 @@ https://sujeitoprogramador.com/
 ![Done](https://img.shields.io/badge/Status-Done-brightgreen)
 
 <br/>
+
+## 🌍 Find me
+
+- [Linkedin](https://www.linkedin.com/in/joao-lopes-071026198/)
