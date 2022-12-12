@@ -8,9 +8,9 @@ The App **FinancyApp** is a project developed during **Sujeito Programador** cla
 https://sujeitoprogramador.com/
 
 <div align="center">
-<img align="center" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="SignIn" height="654" width="320" src="src/assets/logIn.png">
+<img align="center" alt="Home" height="654" width="320" src="src/assets/home.png">
+<img align="center" alt="AddTransaction" height="654" width="320" src="src/assets/transaction.png">
 </div>
 
 ## 🛠️ Features
