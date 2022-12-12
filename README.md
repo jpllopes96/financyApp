@@ -7,7 +7,7 @@ The App **FinancyApp** is a project developed during **Sujeito Programador** cla
 **Sujeito Programador:**
 https://sujeitoprogramador.com/
 
-<div align="left">
+<div align="center">
 <img align="left" alt="SignIn" height="654" width="320" src="src/assets/logIn.png">
 <img align="left" alt="Home" height="654" width="320" src="src/assets/home.png">
 </div>
