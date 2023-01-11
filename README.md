@@ -2,7 +2,7 @@
 
 # Descripition 
 
-The App **FinancyApp** is a project developed during **Sujeito Programador** classes. The porpouse of the application is to make a financy manager, to assist the users to control the expenses and entries. With a clean interface the users an easily identify the entries and outgoing which results in the users's balance.
+The App **FinancyApp** is a project developed during **Sujeito Programador** classes. The purpose of the application is to make a financy manager, to assist the users to control the expenses and entries. With a clean interface the users an easily identify the entries and outgoing which results in the users's balance.
 
 **Sujeito Programador:**
 https://sujeitoprogramador.com/
